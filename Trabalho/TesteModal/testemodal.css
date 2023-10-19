@@ -1,0 +1,18 @@
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+.btn-primary:hover{
+    
+    background-color: #2a2a2a42;
+    
+}
+
+
+.close{
+    margin-left: 90%;
+}
+
+
